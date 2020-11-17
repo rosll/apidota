@@ -6,7 +6,7 @@ const Header: React.FC = () => {
   return (
     <header id="main-header">
       <img src={logo} alt="Logo" />
-      Listando Personagens
+      Listando Personagens - Dota 2
     </header>
   );
 };
